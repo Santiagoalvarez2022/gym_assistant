@@ -1,0 +1,375 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: '53D93C9E9BD968208C786194800FF561',
+    participant: undefined
+  },
+  messageTimestamp: 1717696511,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Falleció la abuela de Ema',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Falleció la abuela de Ema',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: '595378DCACE4D70D920751E4E19ACEFF',
+    participant: undefined
+  },
+  messageTimestamp: 1717697286,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: '180C2B637E616BE9F7AAD6CE74EBB404',
+    participant: undefined
+  },
+  messageTimestamp: 1717697326,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si querés pasamos cuando venís a buscarme',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si querés pasamos cuando venís a buscarme',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: '60D81B8960910B38A8F14415C0C29A91',
+    participant: undefined
+  },
+  messageTimestamp: 1717697434,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32393995_2388741884659676_9092116746157980044_n.enc?ccb=11-4&oh=01_Q5AaIH3EuMuOC7cO5mun0v9aSDwPfJ5VmXUEmyfKkITzUra2&oe=66897F95&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 6,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32393995_2388741884659676_9092116746157980044_n.enc?ccb=11-4&oh=01_Q5AaIH3EuMuOC7cO5mun0v9aSDwPfJ5VmXUEmyfKkITzUra2&oe=66897F95&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__f9d7d123-e250-4502-837f-3bffa253a5eb',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC6595533323DAD22B028F630756ABD6',
+    participant: undefined
+  },
+  messageTimestamp: 1717697495,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/25354336_322392157579617_5223781806833923212_n.enc?ccb=11-4&oh=01_Q5AaIIZU2J-ymyf_L1cBE8mufxpHU0_KcTYuYWCtZ4da5dC6&oe=66895D35&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 4,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/25354336_322392157579617_5223781806833923212_n.enc?ccb=11-4&oh=01_Q5AaIIZU2J-ymyf_L1cBE8mufxpHU0_KcTYuYWCtZ4da5dC6&oe=66895D35&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__118e13d1-6d2a-4aac-9c39-c16a5b931c76',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: '68CD3FF2D7BD60FC0448F09A99302DDC',
+    participant: undefined
+  },
+  messageTimestamp: 1717697501,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/29713924_432444199643850_5213118983399140341_n.enc?ccb=11-4&oh=01_Q5AaIJaBhXJjxmvad4NvzaCUnXraRKYc0jgdCuMOxT_YqNeb&oe=6689590E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/29713924_432444199643850_5213118983399140341_n.enc?ccb=11-4&oh=01_Q5AaIJaBhXJjxmvad4NvzaCUnXraRKYc0jgdCuMOxT_YqNeb&oe=6689590E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__2a2fc496-2ec8-4f07-af24-a68716af4456',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF2FC6E025CB246D78629F7BF97EB410',
+    participant: undefined
+  },
+  messageTimestamp: 1717697561,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    conversation: 'En 35 min',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En 35 min',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477678668@s.whatsapp.net',
+    fromMe: false,
+    id: 'BDD5AA7B835ED0CE78CAC23E9668A147',
+    participant: undefined
+  },
+  messageTimestamp: 1717697570,
+  pushName: 'Romina',
+  broadcast: false,
+  message: Message {
+    conversation: '15:45',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '15:45',
+  from: '5492477678668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: '0068BCF6816B3EA5C6D20F5C785743FD',
+    participant: undefined
+  },
+  messageTimestamp: 1717697621,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hey maan gracias, la verdad tampoco sabia 🥹 \n' +
+      '\n' +
+      'ahora que veo tu mensaje, estuve leyendo algunos grupos de familia que tengo!!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hey maan gracias, la verdad tampoco sabia 🥹 \n' +
+    '\n' +
+    'ahora que veo tu mensaje, estuve leyendo algunos grupos de familia que tengo!!',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7CE6F191F1BA1107FF78D406A933679',
+    participant: undefined
+  },
+  messageTimestamp: 1717697683,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yo pienso que estoy bien San, era algo sabido y quizás necesario ya que no la estaba pasando muy bien ya!ñ',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo pienso que estoy bien San, era algo sabido y quizás necesario ya que no la estaba pasando muy bien ya!ñ',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: 'E54DD8FC829BEF1975DCBF5B548FF63E',
+    participant: undefined
+  },
+  messageTimestamp: 1717697699,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sisi, Presidente Redon mandó al grupo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sisi, Presidente Redon mandó al grupo',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: 'D760FC9E767222D471381B6C40613297',
+    participant: undefined
+  },
+  messageTimestamp: 1717697716,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mi mamá va a ser el tema 😔',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mi mamá va a ser el tema 😔',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: '0A43B6C2BAA9E9179BC5E266C60977DC',
+    participant: undefined
+  },
+  messageTimestamp: 1717697749,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'No, todavía no, eso no mandaron en los grupos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No, todavía no, eso no mandaron en los grupos',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1B93A81C8DCD57011692B68DACCA6AC',
+    participant: undefined
+  },
+  messageTimestamp: 1717698358,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sii, pienso',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sii, pienso',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: '79CA2F6D1E99E1B34488C0BFFCDA5373',
+    participant: undefined
+  },
+  messageTimestamp: 1717698375,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mi mamá esta trabajando, yo estoy en mi casa por salir al gym en unos minutos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mi mamá esta trabajando, yo estoy en mi casa por salir al gym en unos minutos',
+  from: '5492477539340'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492477539340@s.whatsapp.net',
+    fromMe: false,
+    id: '23D89FC9E012959AB95696490BEE9EB4',
+    participant: undefined
+  },
+  messageTimestamp: 1717698415,
+  pushName: 'Emanuel Muñoz Torigino ✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'Parece que llevarán a mi mamá a la casa de mi abuela para que este con los hermanos/as or IDK',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Parece que llevarán a mi mamá a la casa de mi abuela para que este con los hermanos/as or IDK',
+  from: '5492477539340'
+}
